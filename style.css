@@ -54,4 +54,23 @@ section{
     text-align: center;
     background-color: rgb(134, 133, 133)
 }
+
+.Sarah {
+    background-color: black;
+}
+
+.Guilherme {
+    background-color: black;
+}
+
+.Maria {
+    background-color: black;
+}
+
+.Sarah {
+    font-family: cursive;
+}
     
+.Guilherme {
+    font-family: 'Times New Roman', Times, serif;
+}
